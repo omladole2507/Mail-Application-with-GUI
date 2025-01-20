@@ -1,6 +1,6 @@
 # 📧 OM's Mail Application - README
 
-Welcome to Sagar's Mail Application! This is a simple GUI-based email-sending application built using Python and the Tkinter library. This application allows users to send emails conveniently via Gmail's SMTP server.
+Welcome to OM's Mail Application! This is a simple GUI-based email-sending application built using Python and the Tkinter library. This application allows users to send emails conveniently via Gmail's SMTP server.
 
 ---
 
